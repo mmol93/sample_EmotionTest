@@ -71,7 +71,7 @@
         app:layout_constraintGuide_percent="0.85" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/btn_back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
