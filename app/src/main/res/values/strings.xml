@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Sample_EmotionTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="main_title">Let\'s find out\nyour type</string>
+
+    <string name="question">There were favorite flowers</string>
+
 </resources>
